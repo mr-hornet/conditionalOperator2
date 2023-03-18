@@ -7,6 +7,7 @@ public class Main {
         task5();
         System.out.println("Задания выполнены");
         System.out.println("Поздравляю");
+
     }
 
     public static void task1() {
